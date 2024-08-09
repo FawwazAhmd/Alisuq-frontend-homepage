@@ -661,31 +661,31 @@ function App() {
               <h2 className="text-bold">Featured Categories</h2>
               <div className="row">
                 <div className="col-lg-6 col-md-6 mia">
-                  <a href="#">
+                  <a href="https://example.com">
                     <img src={img1} alt="Category 1" className="category-image" style={{ maxWidth: '100%', maxHeight: '100%' }} />
                   </a>
                 </div>
                 <div className="col-lg-6 col-md-6">
                   <div className="row">
                     <div className="col-md-6 mid">
-                      <a href="#">
+                      <a href="https://example.com">
                         <img src={img2} alt="Category 2" className="category-image" style={{ maxWidth: '100%', maxHeight: '100%' }} />
                       </a>
                     </div>
                     <div className="col-md-6 mie">
-                      <a href="#">
+                      <a href="https://example.com">
                         <img src={img4} alt="Category 4" className="category-image" style={{ maxWidth: '100%', maxHeight: '100%' }} />
                       </a>
                     </div>
                   </div>
                   <div className="row">
                     <div className="col-md-6 mid">
-                      <a href="#">
+                      <a href="https://example.com">
                         <img src={img3} alt="Category 3" className="category-image" style={{ maxWidth: '100%', maxHeight: '100%', paddingTop: '25px' }} />
                       </a>
                     </div>
                     <div className="col-md-6 mie">
-                      <a href="#">
+                      <a href="https://example.com">
                         <img src={img5} alt="Category 5" className="category-image" style={{ maxWidth: '100%', maxHeight: '100%', paddingTop: '25px' }} />
                       </a>
                     </div>
