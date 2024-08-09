@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
     Thanks to the React community for their support and resources.
     Bootstrap for providing a solid foundation for responsive design.
-    Your Name for contributing to this project.
+    Fawwaz Ahmed for contributing to this project.
