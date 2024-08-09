@@ -26,3 +26,14 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/FawwazAhmd/Alisuq-frontend-homepage.git
+Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Acknowledgments
+
+    Thanks to the React community for their support and resources.
+    Bootstrap for providing a solid foundation for responsive design.
+    Your Name for contributing to this project.
