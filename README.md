@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/FawwazAhmd/Alisuq-frontend-homepage.git
-Contributing
+# Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 License
