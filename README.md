@@ -1,6 +1,6 @@
 # Preview:
 
-You can view a live preview of the homepage at the following link: [Alisuq-Homepage]([http://url-to-link](https://alisuq-homepage.netlify.app/))
+You can view a live preview of the homepage at the following link: [Alisuq-Homepage](https://alisuq-homepage.netlify.app/)
 
 # Alisuq Homepage Design
 
