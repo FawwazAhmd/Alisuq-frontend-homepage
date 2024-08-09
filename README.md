@@ -53,14 +53,14 @@ npm start
 
 The project will be available at http://localhost:3000 by default.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Acknowledgments
+## Acknowledgments
 
     Thanks to the React community for their support and resources.
     Bootstrap for providing a solid foundation for responsive design.
