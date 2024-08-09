@@ -305,37 +305,37 @@ function App() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item-1">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Building and Construction Materials
                   </a>
                 </li>
                 <li className="nav-item-2">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Hardware &amp; Tools
                   </a>
                 </li>
                 <li className="nav-item-3">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Automotive
                   </a>
                 </li>
                 <li className="nav-item-4">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Decor &amp; Furniture
                   </a>
                 </li>
                 <li className="nav-item-5">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Appliances
                   </a>
                 </li>
                 <li className="nav-item-6">
-                  <a className="nav-link" href="#" style={{ fontWeight: '600', color: 'black' }}>
+                  <a className="nav-link" href="https://example.com" style={{ fontWeight: '600', color: 'black' }}>
                     Brands
                   </a>
                 </li>
                 <div className="category-name pointer d-flex justify-content-center align-items-center fw-600 offrr"></div>
-                <a className="nav-link" href="#" style={{ fontWeight: '700', color: 'white', fontsize: '10px', paddindLeft: '15px' }}>
+                <a className="nav-link" href="https://example.com" style={{ fontWeight: '700', color: 'white', fontsize: '10px', paddindLeft: '15px' }}>
                   <span className="off50">Offers </span>
                 </a>
               </ul>
@@ -389,28 +389,28 @@ function App() {
                 <Button variant="outline-dark" className="product-button2">View all</Button>
               </div>
               <div className="button-container">
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt1} alt="Button 1" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt2} alt="Button 2" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt3} alt="Button 3" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt4} alt="Button 4" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt5} alt="Button 5" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt6} alt="Button 6" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt7} alt="Button 7" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
-                <a href="#">
+                <a href="https://example.com">
                   <img src={bt8} alt="Button 8" className="bt1" style={{ width: '155px', height: '165px' }} />
                 </a>
                 <a href="https://alisuq.com/uae-en/">
@@ -1334,32 +1334,32 @@ function App() {
 
           <div className="row">
             <div className="col" style={{ paddingLeft: '50px' }}>
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w1} alt="Brand 1" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w2} alt="Brand 2" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w3} alt="Brand 3" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w4} alt="Brand 4" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w5} alt="Brand 5" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={w6} alt="Brand 6" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
@@ -1594,37 +1594,37 @@ function App() {
           </div>
           <div className="row">
             <div className="col" style={{ paddingLeft: '50px' }}>
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a1} alt="Brand 1" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a2} alt="Brand 2" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a3} alt="Brand 3" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a4} alt="Brand 4" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a5} alt="Brand 5" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a6} alt="Brand 6" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a7} alt="Brand 6" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
@@ -1644,37 +1644,37 @@ function App() {
           </div>
           <div className="row">
             <div className="col" style={{ paddingLeft: '50px' }}>
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a8} alt="Brand 8" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a9} alt="Brand 9" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a10} alt="Brand 10" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a11} alt="Brand 11" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a12} alt="Brand 12" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a13} alt="Brand 13" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a14} alt="Brand 14" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
@@ -1691,37 +1691,37 @@ function App() {
           </div>
           <div className="row">
             <div className="col" style={{ paddingLeft: '50px' }}>
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a15} alt="Brand 15" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a16} alt="Brand 16" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a17} alt="Brand 17" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a18} alt="Brand 18" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a19} alt="Brand 19" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a20} alt="Brand 20" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a21} alt="Brand 21" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
@@ -1738,37 +1738,37 @@ function App() {
           </div>
           <div className="row">
             <div className="col" style={{ paddingLeft: '50px' }}>
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a22} alt="Brand 22" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a23} alt="Brand 23" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a24} alt="Brand 24" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a25} alt="Brand 25" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a26} alt="Brand 26" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a27} alt="Brand 27" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
             <div className="col">
-              <a href="#">
+              <a href="https://example.com">
                 <img src={a28} alt="Brand 28" className="brand-image" style={{ maxWidth: '100%', maxHeight: '90%', padding: '0 0px' }} />
               </a>
             </div>
