@@ -1,8 +1,7 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from 'react';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-
-import Products from './Products';
 
 import Dropdown from 'react-bootstrap/Dropdown';
 import Carousel from 'react-bootstrap/Carousel';
