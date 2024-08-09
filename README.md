@@ -1,3 +1,7 @@
+# Preview:
+
+You can view a live preview of the homepage at the following link: [Alisuq-Homepage]([http://url-to-link](https://alisuq-homepage.netlify.app/))
+
 # Alisuq Homepage Design
 
 ## Overview
@@ -26,6 +30,29 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/FawwazAhmd/Alisuq-frontend-homepage.git
+   
+2. **Navigate to the Project Directory:**
+
+ ```bash
+cd Alisuq-frontend-homepage.
+```
+
+3. **Install Dependencies:**
+Make sure you have Node.js installed. Then, install the required packages:
+
+```bash
+npm install
+```
+
+4. **Start the Development Server:**
+Run the development server to see the project in action:
+
+```bash
+npm start
+```
+
+The project will be available at http://localhost:3000 by default.
+
 # Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
