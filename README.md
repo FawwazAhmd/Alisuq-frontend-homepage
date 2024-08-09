@@ -32,7 +32,8 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+# Acknowledgments
 
     Thanks to the React community for their support and resources.
     Bootstrap for providing a solid foundation for responsive design.
